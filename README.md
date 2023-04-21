@@ -1,6 +1,6 @@
 # Python and Natural Language Processing
 
-This repository includes a Jupyter Notebook and some sample data providing the reader with a very gentle  introduction to natural language processing using Python. 
+This repository includes a Jupyter Notebook and some sample data providing the reader with a very gentle  introduction to natural language processing using Python. [View the Notebook](./python-and-nlp.ipynb) to begin.
 
 Python is a programming language. Just like verbal languages, every programming language has it own strengths and weaknesses. Now-a-days I belive Python is the best language for text processing.
 
